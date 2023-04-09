@@ -1,3 +1,10 @@
+DOMAIN-SUFFIX,*.cnki.net
+DOMAIN-SUFFIX,*.mojidict.com
+DOMAIN-SUFFIX,morinagashi-my.sharepoint.com
+DOMAIN-SUFFIX,api.steampowered.com
+DOMAIN-SUFFIX,cm.steampowered.com
+DOMAIN-SUFFIX,*.cm.steampowered.com
+DOMAIN-SUFFIX,*.steamserver.net
 DOMAIN-SUFFIX,morinagashi-my.sharepoint.com
 DOMAIN-SUFFIX,api.steampowered.com
 DOMAIN-SUFFIX,cm.steampowered.com
